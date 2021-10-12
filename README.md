@@ -11,6 +11,6 @@ QR Code:
 
 Video Demo: https://youtu.be/sMreZfdd69s
 
-Technologies Used: ReactJS, Google Firebase, Javascript, HTML, CSS, Heroku
+Technologies Used: ReactJS, Google Firebase, ChatEngine.io, Javascript, HTML, CSS, Heroku
 
 Date Created: October 2021
