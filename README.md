@@ -9,7 +9,7 @@ Website Link: https://chatify-reactjs.herokuapp.com
 QR Code: 
 ![Alt Text](https://github.com/ChenGrant/Chatify-Public/blob/2bfaaf7f78d4795033a2a7b89b74d634202e0333/about/qr-code.png)
 
-Video Demo: https://youtu.be/nizjfP9l_fw
+Video Demo: https://youtu.be/sMreZfdd69s
 
 Technologies Used: ReactJS, Google Firebase, Javascript, HTML, CSS, Heroku
 
