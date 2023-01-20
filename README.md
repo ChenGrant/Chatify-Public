@@ -4,7 +4,7 @@ Description: Chatify is a web messaging app that allows for instant messaging, s
 
 ![Alt Text](https://github.com/ChenGrant/Chatify-Public/blob/2bfaaf7f78d4795033a2a7b89b74d634202e0333/about/gif.gif)
 
-Website Link: https://chatify-reactjs.herokuapp.com
+<!---Website Link: https://chatify-reactjs.herokuapp.com--->
 
 QR Code: 
 ![Alt Text](https://github.com/ChenGrant/Chatify-Public/blob/2bfaaf7f78d4795033a2a7b89b74d634202e0333/about/qr-code.png)
